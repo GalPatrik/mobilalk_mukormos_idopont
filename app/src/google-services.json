@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048969478122",
+    "firebase_url": "https://mobilalk2025-147b5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobilalk2025-147b5",
+    "storage_bucket": "mobilalk2025-147b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048969478122:android:edb9eec0ad0e2299e8fc93",
+        "android_client_info": {
+          "package_name": "com.example.mukormos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048969478122-5jbrbspmist2iluqoktki46abni3v6s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD499GtRYXPz9YMyAtPp0bz9-Q58f47Grs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048969478122-5jbrbspmist2iluqoktki46abni3v6s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
